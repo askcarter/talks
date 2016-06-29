@@ -11,3 +11,5 @@ kubectl create -f https://rawgit.com/kubernetes/dashboard/master/src/deploy/kube
 ```
 kubectl config view | grep "server:\|password:"
 ```
+
+Note:  For now, need to navigate to #/service to see services.

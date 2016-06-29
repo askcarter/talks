@@ -1,3 +1,4 @@
+Docs:  http://kubernetes.io/docs/user-guide/ui/
 
 ```
 kubectl delete deployments kubernetes-dashboard --namespace kube-system
